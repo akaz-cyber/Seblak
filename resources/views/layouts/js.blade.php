@@ -1,0 +1,12 @@
+<script src="{{URL::to('assets/js/jquery.js')}}"></script>
+<script src="{{URL::to('assets/js/bootstrap.min.js')}}"></script>
+<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+<script src="{{URL::to('assets/js/owl.carousel.min.js')}}"></script>
+<script src="{{URL::to('assets/js/mousescroll.js')}}"></script>
+<script src="{{URL::to('assets/js/smoothscroll.js')}}"></script>
+<script src="{{URL::to('assets/js/jquery.prettyPhoto.js')}}"></script>
+<script src="{{URL::to('assets/js/jquery.isotope.min.js')}}"></script>
+<script src="{{URL::to('assets/js/jquery.inview.min.js')}}"></script>
+<script src="{{URL::to('assets/js/wow.min.js')}}"></script>
+<script src="{{URL::to('assets/js/contact.js')}}"></script>
+<script src="{{URL::to('assets/js/custom-scripts.js')}}"></script>
